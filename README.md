@@ -30,7 +30,7 @@ npm install --save @tendermint/types
 
 ```shell
 git clone https://github.com/cosmos/types.git
-cd belt
+cd types
 yarn install
 yarn setup
 yarn test
@@ -38,6 +38,6 @@ yarn test
 
 ### Contributing
 
-Belt is very new! Questions, feedback, use cases, issues, and code are all very, very welcome.
+Types is very new! Questions, feedback, use cases, issues, and code are all very, very welcome.
 
 Thank you for helping us help you help us all. 🎁
