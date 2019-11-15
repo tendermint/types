@@ -33,7 +33,6 @@ git clone https://github.com/cosmos/types.git
 cd types
 yarn install
 yarn setup
-yarn test
 ```
 
 ### Contributing
