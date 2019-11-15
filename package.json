@@ -12,7 +12,7 @@
     "engines":         {
         "node": ">=10"
     },
-    "version":         "0.0.0",
+    "version":         "0.1.0",
     "main":            "index.d.ts",
     "scripts":         {
         "dirs":           "mkdir -p docs",
